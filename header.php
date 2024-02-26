@@ -17,7 +17,7 @@
                 <a href="" class="nav-link link"  >Blood_Help</a>
             </li>
             <li class="nav-item p-1">
-                <a href="index.html" class="nav-link link"> Home</a>
+                <a href="index.php" class="nav-link link"> Home</a>
             </li>
             <li class="nav-item p-1">
                 <a href="registration.php" class="nav-link link">Register</a>
