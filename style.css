@@ -1,0 +1,84 @@
+  body{ 
+    background-color: #FFFDEF;
+  }
+  
+  .back{ 
+    background-color: #FFFDEF;
+    width: 100%;
+    height: 10;
+  }
+  .heading {
+      color: #C50000;
+      font-size: 3rem;
+      font-weight: bold;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      text-align: center;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+  }
+
+  .headingText {
+      color: #E70000;
+      font-size: 15px;
+      font-weight: bold;
+      text-align: center;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin-bottom: 1rem;
+  }
+
+  .image {
+      width: 100%;
+      height: 27rem;
+  }
+
+  .image>img {
+      width: 100%;
+      height: 100%;
+  } 
+  .about{ 
+    font-size: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #C50000;
+
+  } .aboutin{ 
+    color:#E70000;
+    font-size: 1.1rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  } .cardimg{ 
+    width: 100%;
+    height: 14.8rem;
+  } 
+  
+  .text{ 
+    background-color: #FFFDEF;
+  }
+
+  .top{ 
+    font-weight:bold;
+    font-size: 2rem;
+    color:#C50000 ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  } 
+  .qus{ 
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #E70000;
+    font-family:sans-serif;
+  } .ans{ 
+    font-weight: bold;
+  }
+  .link{ 
+    font-weight: bold;
+    color: #C50000;
+    margin-left: 10px;
+  } 
+  .link:hover{ 
+    background-color:#f70a0ae7;
+    border-radius: 25px;
+    color: white;
+  }
+  .reimg{ 
+    width: 100%;
+    height: 20rem;
+
+  }
